@@ -10,3 +10,5 @@ Some open source codes and related databasesata sets--TNO_Image_Fusion-Dataset o
 >The complete FTF program running results are as follows:
 >
 ![Bench_IR](https://github.com/dly31/FTF/blob/master/Bench_IR.tif)![Bench_VIS](https://github.com/dly31/FTF/blob/master/Bench_VIS.tif)![Bench_Fused](https://github.com/dly31/FTF/blob/master/Bench_Fused.png)
+>
+The detailed code will be updated to this repository.
